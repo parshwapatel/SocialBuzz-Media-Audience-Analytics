@@ -1,0 +1,97 @@
+category,TimeofDay,Total_Reactions
+studying,Morning,359
+studying,Afternoon,282
+studying," Early Morning",151
+studying,Evening,183
+studying,Night,224
+studying,"Late Night",164
+"healthy eating",Evening,206
+"healthy eating","Late Night",209
+"healthy eating"," Early Morning",216
+"healthy eating",Morning,447
+"healthy eating",Night,287
+"healthy eating",Afternoon,352
+technology,Afternoon,340
+technology,Night,302
+technology," Early Morning",205
+technology,Morning,436
+food,Evening,196
+cooking,Night,268
+cooking," Early Morning",202
+cooking,Morning,423
+cooking,Afternoon,329
+cooking,"Late Night",224
+dogs,Afternoon,290
+dogs,"Late Night",151
+dogs,Morning,332
+dogs," Early Morning",172
+dogs,Night,224
+dogs,Evening,169
+technology,Evening,198
+technology,"Late Night",217
+soccer,"Late Night",197
+soccer,Afternoon,290
+soccer,Evening,173
+soccer,Morning,382
+"public speaking","Late Night",153
+"public speaking",Night,195
+"public speaking",Morning,324
+"public speaking",Afternoon,255
+"public speaking"," Early Morning",152
+"public speaking",Evening,138
+science,Afternoon,363
+science," Early Morning",218
+science,Morning,443
+science,"Late Night",218
+science,Night,333
+tennis,Morning,353
+tennis,Night,213
+tennis,"Late Night",169
+tennis,Evening,150
+tennis,Afternoon,275
+tennis," Early Morning",168
+food,Morning,423
+food," Early Morning",251
+food,Night,294
+food,"Late Night",184
+food,Afternoon,351
+travel,Evening,204
+fitness," Early Morning",182
+fitness,Morning,358
+fitness,Night,226
+fitness,Afternoon,296
+soccer,Night,243
+soccer," Early Morning",172
+education,Night,253
+education,Evening,187
+education,Afternoon,290
+education,Morning,362
+education,"Late Night",159
+education," Early Morning",182
+travel,Morning,407
+travel,Afternoon,338
+travel,Night,271
+travel," Early Morning",222
+travel,"Late Night",205
+science,Evening,221
+veganism,"Late Night",161
+veganism,Morning,325
+veganism,Night,221
+veganism,Afternoon,225
+veganism,Evening,156
+veganism," Early Morning",160
+cooking,Evening,218
+animals,Afternoon,402
+animals,Morning,491
+animals," Early Morning",224
+animals,Night,308
+animals,Evening,235
+animals,"Late Night",237
+fitness,Evening,169
+fitness,"Late Night",164
+culture,Evening,208
+culture,Morning,428
+culture,Afternoon,361
+culture,Night,274
+culture," Early Morning",196
+culture,"Late Night",209

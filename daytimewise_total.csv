@@ -1,0 +1,97 @@
+category,TimeofDay,Total
+Studying,Morning,14263
+Studying,Afternoon,11933
+Studying," Early Morning",6058
+Studying,Evening,7310
+Studying,Night,8310
+Studying,"Late Night",6395
+"healthy eating",Evening,8874
+"healthy eating","Late Night",8222
+"healthy eating"," Early Morning",8031
+"healthy eating",Morning,18190
+"healthy eating",Night,12072
+"healthy eating",Afternoon,13950
+technology,Afternoon,13400
+technology,Night,12650
+technology," Early Morning",8008
+technology,Morning,17704
+food,Evening,7815
+cooking,Night,10399
+cooking," Early Morning",7680
+cooking,Morning,16388
+cooking,Afternoon,12970
+cooking,"Late Night",8692
+dogs,Afternoon,11791
+dogs,"Late Night",5672
+dogs,Morning,12588
+dogs," Early Morning",6942
+dogs,Night,9138
+dogs,Evening,6380
+technology,Evening,7941
+technology,"Late Night",9035
+soccer,"Late Night",8142
+soccer,Afternoon,11683
+soccer,Evening,7119
+soccer,Morning,15143
+"public speaking","Late Night",6555
+"public speaking",Night,8223
+"public speaking",Morning,12590
+"public speaking",Afternoon,10186
+"public speaking"," Early Morning",6388
+"public speaking",Evening,5322
+science,Afternoon,14741
+science," Early Morning",9109
+science,Morning,18235
+science,"Late Night",8452
+science,Night,11660
+tennis,Morning,13340
+tennis,Night,8172
+tennis,"Late Night",5882
+tennis,Evening,5685
+tennis,Afternoon,10483
+tennis," Early Morning",6777
+food,Morning,16973
+food," Early Morning",10466
+food,Night,11294
+food,"Late Night",6848
+food,Afternoon,13280
+travel,Evening,8474
+fitness," Early Morning",6566
+fitness,Morning,14298
+fitness,Night,8907
+fitness,Afternoon,12128
+soccer,Night,9311
+soccer," Early Morning",6385
+education,Night,9958
+education,Evening,7942
+education,Afternoon,11390
+education,Morning,14679
+education,"Late Night",6421
+education," Early Morning",7046
+travel,Morning,15150
+travel,Afternoon,14084
+travel,Night,10723
+travel," Early Morning",8600
+travel,"Late Night",7849
+science,Evening,8971
+veganism,"Late Night",6430
+veganism,Morning,13236
+veganism,Night,9502
+veganism,Afternoon,8086
+veganism,Evening,6170
+veganism," Early Morning",6195
+cooking,Evening,8627
+Animals,Afternoon,15954
+Animals,Morning,19140
+Animals," Early Morning",9474
+Animals,Night,12101
+animals,Evening,9177
+animals,"Late Night",9119
+fitness,Evening,6500
+fitness,"Late Night",6924
+culture,Evening,8439
+culture,Morning,16710
+culture,Afternoon,14683
+culture,Night,10673
+culture," Early Morning",7884
+culture,"Late Night",8190
